@@ -1,4 +1,4 @@
-use `BRA` (Brilliant Ridiculous Assistant) to auto reload server when file changes
+use [BRA](https://github.com/unknwon/bra) (Brilliant Ridiculous Assistant) to auto reload server when file changes
 
 - start server
 
